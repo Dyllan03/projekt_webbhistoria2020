@@ -1,0 +1,10 @@
+.Ametys_mini_fact{
+    float:right;
+    border:1px solid rgb(17, 17, 16);
+    padding:1%
+}
+.wiki_artikel{
+    width: fit-content;
+    margin-right: 1%;
+    margin-left:1%;
+}

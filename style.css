@@ -1,0 +1,38 @@
+.rubrik{
+    color:red
+}
+.Två{
+    font-size: 1em;
+}
+.Tida{
+    width: 20%;
+}
+body{
+    background-image: url("/Internet\ of\ things.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+
+
+    
+}
+p,h1,h2,h3{
+    background:linear-gradient(to right, rgb(156, 209, 120), green);
+    width: fit-content;
+    margin-right: 1%;
+    padding: 1%;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.Historiska_händelser{
+    margin-left:10%;
+    margin-right:10%;
+}
+.Historiska_händelser img{
+    padding:1%
+}
+.Neutron{
+    margin-left:37%;
+}
