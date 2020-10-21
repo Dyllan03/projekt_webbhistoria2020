@@ -1,1 +1,14 @@
 Här kan ni dokumentera tester:
+Användar testet
+Eric
+1. Vad tycker du om webbsidan när det gäller dens utseende?
+Eric tycker om konceptet med bakgrunden, Text boxarna.
+
+2. Har den en bra struktuerad info och bilder så att det blir lätt för läsaren?
+Bildrna är svårt att förstå vilken text de hör till. Info kunde bli mer tydligare genom att göra större mellan rum så att man vet när det nytt i sidan. 
+
+3. Skulle det vara lätt att följa med imformationen om det var på din mobil skärm?
+Sidan är mer anpassad för mobil skärm än dator skärm men man ser inte hela bakgrunden. 
+
+Resultat
+Gjorde större mellan rum mellan artiklarna
