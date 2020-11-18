@@ -12,3 +12,80 @@ Sidan är mer anpassad för mobil skärm än dator skärm men man ser inte hela 
 
 Resultat
 Gjorde större mellan rum mellan artiklarna
+
+
+
+Utvärdering om mitt projekt:
+Artiklarna
+Vad gick bra?
+Det som gick bra med denna sida är att den är strukturrerad på ett sätt så att det är lätt för läasren att följa med till exempel bilderna är enkelt att veta vilka bilder som tillhör vilka artiklar.
+Dessutom finns det bakgrunds rutor som gör att det är lätt för användaren vad som står och att det är tydlygt text. Om jag gjorde inte sådana rutor skulle det vara svårt för personen att läsa 
+därför att bakgrunden har ett mörkt som gör att textens färg blir bländade i bakgrunden.
+
+
+Vad var svårast med den delen?
+Jag skulle säga att göra den struktuerad eftersom det tog för mig att göra bilderna hamnar åt vänster av sidan och är i mitten av det. 
+Dessutom var det lite svårt att vad för H texterna skulle ha för att jag behövde pröva mig fram vilket stil skulle passa bäst för läsaren.
+
+Vad skulle kunna gjorts bättre?
+Jag skulle kunna göra mer struktuerad eftersom jag vill göra så att läsaren tappar inte bort sig och inte blandar ihop med något annat artikel, till exempel 1972 artikeln gjorde jag en ruta för att kunna visa läsaren
+vilka texter tillhör denna artikel.
+
+Hur påverkade resultatet från användartestet den delen?
+Efter jag har gjort större mellan rum är det lättare för användaren att läsa och följa med.
+
+
+wiki
+Vad gick bra?
+Det som gick bra är att det liknar nästan wikipedia sidan.
+
+Vad var svårast med den delen?
+Göra mini rutan
+
+Vad skulle kunna gjorts bättre?
+Kunde ha varit mer kreativt istället för att göra nästan samma utseende där jag kopierade från.
+
+Hur påverkade resultatet från användartestet den delen?
+Att jag gjorde sidan 
+
+Grundläggandeprinciper
+Vad gick bra?
+Att det struktuerad för att det ska bli lättare att följa med.
+
+Vad var svårast med den delen?
+Svårast va att göra att texetn och bilden rada upp i mitten 
+
+Vad skulle kunna gjorts bättre?
+Skulle ha gjort mini fakta rutor för att vara ännu tydligare 
+
+Hur påverkade resultatet från användartestet den delen?
+Resultatet påverkade ingenting för att jag gjorde inte det innan användar testet.
+
+Index/Navbar
+Vad gick bra?
+Navbar funkar
+Vad var svårast med den delen?
+Att skapa navbaren
+
+Vad skulle kunna gjorts bättre?
+Kunde ha gjort snyggare Navbar
+
+Hur påverkade resultatet från användartestet den delen?
+Resultatet påverkade ingenting för att jag gjorde inte det innan användar testet.
+
+20tal
+Vad gick bra?
+Jag gjorde texterna struktuerad för att göra det lättare för läsaren.
+
+Vad var svårast med den delen?
+Att skriva med sina egna ord om händelsen.
+
+Vad skulle kunna gjorts bättre?
+Skulle ha gjort mini fakta rutor för att vara ännu tydligare 
+
+Hur påverkade resultatet från användartestet den delen?
+Resultatet påverkade ingenting för att jag gjorde inte det innan användar testet.
+
+
+
+

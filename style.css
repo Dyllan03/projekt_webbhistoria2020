@@ -1,3 +1,4 @@
+
 .rubrik{
     color:red
 }
@@ -12,6 +13,7 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
+    margin:0;
 
 
 
@@ -50,4 +52,24 @@ h3{
 }
 .Svenskupptäckt h2{
     margin-top: 0%;
+}
+nav ul{
+    background-color: crimson;
+    padding: 60px;
+    margin:0px;
+    display:flex;
+    justify-content: center;
+}
+
+nav li{
+    background-color: cyan;
+    padding: 16px;
+    margin: 16px;
+    display: inline;
+    border-radius: 16px;
+}
+
+nav a{
+    color: darkblue;
+    text-decoration: none;
 }
